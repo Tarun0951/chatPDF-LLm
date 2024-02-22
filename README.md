@@ -1,1 +1,1 @@
-# chatPDF-LLm
+# chatPDF-LLM using Google Gemini
